@@ -1,0 +1,10 @@
+  14031 "-"
+     16 "://www.openvas.org"
+     14 510
+     12 "-"
+      8 "http://forum.blogsite.org/../../../../etc"
+      6 "<script>alert(document.cookie);</script>"
+      4 HTTP/1.0"
+      4 FileToClob('/etc/passwd','server')::html,0
+      4 562
+      4 

@@ -1,0 +1,10 @@
+   2025 /Themes/default/scripts/theme.js?rc3
+   2025 /Themes/default/scripts/script.js?rc3
+   2025 /Themes/default/css/print.css?rc3
+   2025 /Themes/default/css/index.css?rc3
+    457 /Themes/default/scripts/suggest.js?rc3
+    381 /index.php?action=admin;area=manageboards;sa=board2
+    376 /index.php?action=admin;area=manageboards
+    193 /index.php?action=admin;area=manageboards;sa=newboard;cat=2
+    113 /favicon.ico
+    101 /index.php?action=viewsmfile;filename=latest-news.js

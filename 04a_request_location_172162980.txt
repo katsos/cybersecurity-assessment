@@ -1,0 +1,10 @@
+   1195 /
+    110 /index.php
+     92 /scripts/index.php
+     92 /cgi-bin/index.php
+     64 /servlet/con
+     22 /cgi-bin/
+     18 /scripts/
+     16 /forum/index.php
+     14 GET
+     14 /board/index.php
